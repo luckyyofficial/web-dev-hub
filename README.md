@@ -2,7 +2,7 @@
 
 Your trusted hub for **free web code**, **snippets**, and **resources** — built to make **web development simpler** for everyone.  
 
-Here at **Lucky**, my goal is to provide **ready-to-use code**, **clean examples**, and **practical solutions** for developers, students, and professionals.  
+Here at **Web Dev Hub**, my goal is to provide **ready-to-use code**, **clean examples**, and **practical solutions** for developers, students, and professionals.  
 
 ---
 
