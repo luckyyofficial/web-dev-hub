@@ -1,4 +1,4 @@
-# 🌐 Welcome to **Lucky**
+# 🌐 Welcome to **Web Dev Hub**
 
 Your trusted hub for **free web code**, **snippets**, and **resources** — built to make **web development simpler** for everyone.  
 
