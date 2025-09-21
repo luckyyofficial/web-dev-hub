@@ -30,7 +30,7 @@ Explore a wide range of **web code resources**:
 
 ## ✅ How It Works
 
-1. **Browse the Repo** – Explore folders by topic (HTML, CSS, JS).  
+1. **Browse the Repo** – Explore folders include diffrent web code with unique designs .  
 2. **Copy & Use** – Pick the code you need for your project.  
 3. **Learn & Customize** – Understand how it works and adapt it.  
 4. **Contribute Back** – If you’d like, share improvements or new snippets.  
