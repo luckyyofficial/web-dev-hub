@@ -55,8 +55,5 @@ Explore a wide range of **web code resources**:
 
 ---
 
-<p align="center">
-  <img src="logo.png" alt="Lucky Logo" width="200"/>
-</p>  
 
 <p align="center">🚀 Build faster, learn better, and share more with **Lucky**! 🌐💻</p>
